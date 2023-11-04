@@ -1,0 +1,27 @@
+.about {
+    /* border: 2px solid blue; */
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: whitesmoke;
+    gap: 20px;
+    margin-top: 5rem;
+}
+
+.about-img {
+    margin: 0;
+    width: 100%;
+    height: 25rem;
+}
+.about-b1{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    overflow: auto;
+    padding: 40px;
+} 
